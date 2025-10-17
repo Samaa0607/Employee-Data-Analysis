@@ -26,7 +26,7 @@ The analysis is based on the `Employee.csv` dataset which includes information a
       * Geographical distribution (Country, City).
       * Hiring trends over time.
 
-### Tools Used 🛠️
+### Tools Used 
 
   * Python 3
   * Jupyter Notebook
@@ -53,7 +53,7 @@ The analysis is based on the `Employee.csv` dataset which includes information a
       * Hiring trends across years and months.
       * Employee distribution across countries and cities.
 
-### How to Use 🚀
+### How to Use
 
 1.  Clone the repository.
 2.  Ensure you have Python and the required libraries installed (`pandas`, `numpy`, `seaborn`, `matplotlib`). You can usually install them via pip:
